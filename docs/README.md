@@ -45,4 +45,8 @@ These files provide useful history, but are not the primary setup instructions:
 - The FastAPI OpenAPI page is the definitive runtime schema if it differs from a written example.
 - Historical documents contain a notice at the top and should not override the current guides above.
 
+## License
+
+This project is licensed under the MIT License. See the repository root `LICENSE` file for details.
+
 Last code audit: 2026-07-03.
